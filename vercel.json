@@ -1,0 +1,20 @@
+{
+    "rewrites": [
+        {
+            "source": "/thanks",
+            "destination": "/thanks/index.html"
+        },
+        {
+            "source": "/gift-2000",
+            "destination": "/gift-2000/index.html"
+        },
+        {
+            "source": "/gift-3000",
+            "destination": "/gift-3000/index.html"
+        },
+        {
+            "source": "/gift-5000",
+            "destination": "/gift-5000/index.html"
+        }
+    ]
+}

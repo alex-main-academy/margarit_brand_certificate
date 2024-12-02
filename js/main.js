@@ -52,7 +52,7 @@ form.addEventListener("submit", (event) => {
     fetch(scriptURL, { method: "POST", body: new FormData(form) })
         .then((response) => {
             console.log("Success!", response);
-            window.location.href = "thanks.html";
+            window.location.href = "https://margarit-brand-certificate.vercel.app/thanks";
         })
         .catch((error) => {
             console.error("Error!", error.message);
