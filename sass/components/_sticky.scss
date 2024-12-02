@@ -1,0 +1,13 @@
+.sticky {
+    min-width: 10rem;
+    height: 100vh;
+    position: sticky;
+    top: 0;
+}
+
+.sticky__logo {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translate(0, -50%);
+}

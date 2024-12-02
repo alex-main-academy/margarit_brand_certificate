@@ -1,0 +1,13 @@
+// global styles
+@import './reset';
+@import './fonts';
+@import './vars';
+@import './utils';
+
+// components
+@import './components/hero';
+@import './components/sticky';
+@import './components/info';
+@import './components/contacts';
+@import './components/footer';
+@import './components/loader';
