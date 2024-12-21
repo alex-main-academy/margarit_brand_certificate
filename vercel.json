@@ -13,6 +13,10 @@
             "destination": "/gift-3000/index.html"
         },
         {
+            "source": "/gift-3000-bd",
+            "destination": "/gift-3000-bd/index.html"
+        },
+        {
             "source": "/gift-5000",
             "destination": "/gift-5000/index.html"
         }
